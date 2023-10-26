@@ -1,6 +1,6 @@
 import.java.util.scanner;
 
-class main(){
+class MainActivity2(){
 public static void main(String[]args){
 
 Book book= new book();
